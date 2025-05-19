@@ -1,0 +1,1 @@
+# techfine_mppt component init
